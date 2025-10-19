@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Inpainting Editor",
+  "description": "An application that allows users to upload an image, select a region with a brush, and use AI to edit the selected area based on a text prompt.",
+  "requestFramePermissions": []
+}
